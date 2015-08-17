@@ -1,0 +1,16 @@
+
+*.swp
+*.swo
+*.swn
+*.sw*
+
+.git/*
+
+tmp/*
+wp-content/uploads/*
+
+extra2.1/tmp/*
+*/tmp/*
+
+
+*/compilation_cache/*
