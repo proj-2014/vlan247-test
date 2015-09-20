@@ -43,6 +43,8 @@ define('DB_COLLATE', '');
 
 $table_prefix  = 'test_wp01_';
 define('WPLANG', "en_US");
+
+define('PATCHPATH', dirname(__FILE__) . '/extra2.1/patch4remal/');
 }
 else if($_SERVER["HTTP_HOST"]=="test02.tmp0230.ml" || $_SERVER["HTTP_HOST"]=="test02.vlan" )
 {
@@ -55,7 +57,10 @@ define('DB_COLLATE', '');
 
 $table_prefix  = 'test_wp02_';
 define('WPLANG', "en_US");
+
+define('PATCHPATH', dirname(__FILE__) . '/extra2.1/patch4the7/');
 }
+
 
 /**#@+
  * Authentication Unique Keys and Salts.

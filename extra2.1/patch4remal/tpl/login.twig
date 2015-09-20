@@ -1,0 +1,36 @@
+
+<html>
+<head>
+<title> Hello {{ name }}! </title>
+<script type="text/javascript"  src="/extra2.1/common/public/js/jquery-1.9.1.js"> </script>
+<script type="text/javascript"  src="/extra2.1/patch4remal/public/4tpl-login.js"> </script> 
+</head>
+
+<body>
+
+<h2> Hello , this is my Login Panel ! </h2>
+<div id="wrap">
+
+<h3i id="login"> User Login </h3>
+ {% if name %}
+   <div id="result">
+       <p><strong> {{ name }} </strong>, logined successed! </p>
+       <p><a href="#" id="logout"> Logout </a></p>
+   </div>
+ {% else %}
+   <div id="login_form">
+       <p><label> user name: </label> <input type="text" class="input" name="user" id="user" /></p>
+       <p><label> 密码 ： </label> <input type="password" class="input" name="pass"  id="pass" /></p>
+       <div class="sub">
+           <input type="submit" class="btn" value="login" />
+       </div>
+   </div>
+
+ {% endif %}
+
+</div>
+
+
+</body>
+</html>
+

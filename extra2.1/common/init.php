@@ -16,7 +16,12 @@ require_once("lib/ezSQL/mysql/ez_sql_mysql.php");
 // ===========================================
 // add some code for log and debug 
 
-$file = EXTRAPATH ."/debug_out.txt";
+ini_set("display_errors",0);
+ini_set("error_reporting",E_ALL); 
+ini_set("error_log", EXTRAPATH . 'log/php_error_log');
+ini_set("log_errors",1);
+
+$file = EXTRAPATH . "log/debug_out.txt";
 function debug_out($content) {
     global $file;
     file_put_contents($file, "-----------".$content."\n",FILE_APPEND);
@@ -24,7 +29,7 @@ function debug_out($content) {
 
 // add debug tool kint when kint-debuger no exist ,  20150808
 //if(!file_exists(EXTRAPATH . "../wp-content/plugins/kint-debugger/Kint.class.php"))
-//    require_once("lib/kint/Kint.class.php");
+    require_once("lib/kint/Kint.class.php");
 
 // ==========================================
 //  add for template support , Twig

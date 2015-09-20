@@ -1,0 +1,362 @@
+[17-Aug-2015 16:13:20 UTC] PHP Parse error:  syntax error, unexpected '"  lkjlj"' (T_CONSTANT_ENCAPSED_STRING) in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 3
+[17-Aug-2015 16:14:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[17-Aug-2015 16:15:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[17-Aug-2015 16:15:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[17-Aug-2015 16:15:20 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[17-Aug-2015 16:18:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[17-Aug-2015 16:18:43 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 11
+[17-Aug-2015 16:18:43 UTC] PHP Fatal error:  Call to undefined function ssession_start() in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 14
+[17-Aug-2015 16:19:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[17-Aug-2015 16:19:45 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 11
+[17-Aug-2015 16:19:45 UTC] PHP Fatal error:  Call to undefined function ssession_start() in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 14
+[18-Aug-2015 00:29:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 00:29:55 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 11
+[18-Aug-2015 00:29:55 UTC] PHP Fatal error:  Call to undefined function ssession_start() in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 14
+[18-Aug-2015 00:29:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 00:29:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 00:30:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 00:30:33 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 11
+[18-Aug-2015 00:30:33 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /temp/rsync/test/wordpress/extra2.1/common/lib/kint/Kint.class.php:263) in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 14
+[18-Aug-2015 00:30:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /temp/rsync/test/wordpress/extra2.1/common/lib/kint/Kint.class.php:263) in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 14
+[18-Aug-2015 00:30:33 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 24
+[18-Aug-2015 00:33:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 00:33:52 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 11
+[18-Aug-2015 00:33:52 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 24
+[18-Aug-2015 00:33:52 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[18-Aug-2015 00:34:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 00:34:10 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 34
+[18-Aug-2015 00:34:10 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 35
+[18-Aug-2015 00:40:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 00:40:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'head_js' not found or invalid function name in /temp/rsync/test/wordpress/wp-includes/plugin.php on line 470
+[18-Aug-2015 00:40:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 00:40:36 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/api-data-handle.php on line 16
+[18-Aug-2015 00:56:14 UTC] PHP Parse error:  syntax error, unexpected 'login_time' (T_STRING), expecting ']' in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 61
+[18-Aug-2015 00:58:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 00:58:11 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 34
+[18-Aug-2015 00:58:11 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 35
+[18-Aug-2015 00:59:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 00:59:36 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 34
+[18-Aug-2015 00:59:36 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 35
+[18-Aug-2015 01:00:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:00:45 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 34
+[18-Aug-2015 01:00:45 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 35
+[18-Aug-2015 01:00:45 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 87
+[18-Aug-2015 01:01:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:01:46 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 34
+[18-Aug-2015 01:01:46 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 36
+[18-Aug-2015 01:02:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:02:32 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 34
+[18-Aug-2015 01:02:32 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 35
+[18-Aug-2015 01:02:32 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 37
+[18-Aug-2015 01:03:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:03:28 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 11
+[18-Aug-2015 01:03:28 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 24
+[18-Aug-2015 01:03:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:03:40 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 11
+[18-Aug-2015 01:03:40 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 24
+[18-Aug-2015 01:03:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:03:57 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 34
+[18-Aug-2015 01:03:57 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 37
+[18-Aug-2015 01:04:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:04:20 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 11
+[18-Aug-2015 01:04:20 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 24
+[18-Aug-2015 01:04:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:04:29 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:04:29 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 37
+[18-Aug-2015 01:05:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:05:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:06:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:06:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:06:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:07:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:07:18 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 12
+[18-Aug-2015 01:07:18 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 25
+[18-Aug-2015 01:07:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:07:27 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 35
+[18-Aug-2015 01:07:27 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 38
+[18-Aug-2015 01:07:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:07:46 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 12
+[18-Aug-2015 01:07:46 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 25
+[18-Aug-2015 01:07:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:07:55 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:07:55 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 38
+[18-Aug-2015 01:08:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:08:40 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 12
+[18-Aug-2015 01:08:40 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 25
+[18-Aug-2015 01:08:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 29
+[18-Aug-2015 01:08:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:08:54 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:08:54 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 38
+[18-Aug-2015 01:09:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:09:57 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:09:57 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 39
+[18-Aug-2015 01:12:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:12:00 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:12:00 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 39
+[18-Aug-2015 01:12:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:12:42 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 12
+[18-Aug-2015 01:12:42 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 25
+[18-Aug-2015 01:12:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 29
+[18-Aug-2015 01:12:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:12:51 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:12:51 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 39
+[18-Aug-2015 01:13:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:13:20 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 12
+[18-Aug-2015 01:13:20 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 25
+[18-Aug-2015 01:13:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:13:26 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:13:26 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 39
+[18-Aug-2015 01:14:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:14:00 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 25
+[18-Aug-2015 01:14:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:14:10 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:14:10 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 39
+[18-Aug-2015 01:16:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:16:04 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 25
+[18-Aug-2015 01:16:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:16:22 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 25
+[18-Aug-2015 01:16:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:16:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 35
+[18-Aug-2015 01:16:36 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:16:36 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 39
+[18-Aug-2015 01:17:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:17:18 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 25
+[18-Aug-2015 01:17:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:17:27 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 25
+[18-Aug-2015 01:17:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:17:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 35
+[18-Aug-2015 01:17:50 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:17:50 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 39
+[18-Aug-2015 01:19:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:19:02 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 10
+[18-Aug-2015 01:19:02 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[18-Aug-2015 01:19:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:19:06 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 10
+[18-Aug-2015 01:19:06 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[18-Aug-2015 01:19:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 40
+[18-Aug-2015 01:19:11 UTC] PHP Notice:  Undefined variable: _SESSION in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 01:19:11 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 33
+[18-Aug-2015 01:19:11 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 35
+[18-Aug-2015 01:20:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:20:23 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[18-Aug-2015 01:20:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:20:26 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[18-Aug-2015 01:20:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:20:38 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:20:38 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 35
+[18-Aug-2015 01:22:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:22:44 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:22:44 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 34
+[18-Aug-2015 01:23:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:23:00 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[18-Aug-2015 01:23:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:23:04 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[18-Aug-2015 01:23:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:23:13 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:23:13 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 34
+[18-Aug-2015 01:26:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:26:56 UTC] PHP Notice:  Array to string conversion in /temp/rsync/test/wordpress/extra2.1/common/init.php on line 27
+[18-Aug-2015 01:26:56 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 35
+[18-Aug-2015 01:27:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:27:26 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[18-Aug-2015 01:27:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:27:29 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[18-Aug-2015 01:29:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:29:10 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 01:29:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:29:19 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 01:29:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:29:30 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 01:32:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:32:35 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[18-Aug-2015 01:36:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:36:51 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 01:38:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:38:46 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[18-Aug-2015 01:38:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:38:54 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 01:40:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:40:13 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 01:41:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:41:32 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 01:42:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:42:17 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 01:45:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 01:45:57 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 01:45:57 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 62
+[18-Aug-2015 02:38:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 02:38:39 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 02:38:39 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 62
+[18-Aug-2015 02:38:39 UTC] PHP Notice:  Undefined variable: _arr in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 82
+[18-Aug-2015 02:39:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 02:39:09 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 02:39:09 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 62
+[18-Aug-2015 02:39:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[18-Aug-2015 02:39:25 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 32
+[18-Aug-2015 02:39:25 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 62
+[18-Aug-2015 08:45:55 UTC] PHP Fatal error:  Call to undefined function aop_add_after_returning() in /temp/rsync/test/wordpress/extra2.1/patch4the7/aop.php on line 4
+[19-Aug-2015 07:45:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 07:45:43 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 22
+[19-Aug-2015 07:45:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 07:45:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 07:46:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 07:46:06 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 30
+[19-Aug-2015 07:46:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 07:46:25 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 30
+[19-Aug-2015 07:47:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 07:47:42 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 30
+[19-Aug-2015 08:15:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:15:25 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 08:15:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:15:53 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 08:15:53 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 59
+[19-Aug-2015 08:16:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:38:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:38:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:39:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:39:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:40:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:41:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:41:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:41:33 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 08:42:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:42:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:42:52 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 08:45:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:45:32 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 20
+[19-Aug-2015 08:45:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:45:46 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 08:45:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 08:45:53 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 08:45:53 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 59
+[19-Aug-2015 09:05:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 09:05:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 09:05:40 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 09:07:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 09:07:42 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 20
+[19-Aug-2015 09:07:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 09:07:51 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 09:07:51 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 59
+[19-Aug-2015 09:08:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 09:08:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 09:08:12 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 09:08:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 09:08:28 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 20
+[19-Aug-2015 09:08:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 09:08:42 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 09:08:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 09:08:49 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 09:08:49 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 59
+[19-Aug-2015 13:02:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 13:02:14 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 20
+[19-Aug-2015 13:02:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 13:02:58 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[19-Aug-2015 13:03:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[19-Aug-2015 13:03:14 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[20-Aug-2015 08:17:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Aug-2015 08:17:44 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'head_js' not found or invalid function name in /temp/rsync/test/wordpress/wp-includes/plugin.php on line 470
+[20-Aug-2015 08:17:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Aug-2015 08:17:54 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/api-data-handle.php on line 16
+[20-Aug-2015 08:18:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Aug-2015 08:18:10 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 20
+[20-Aug-2015 08:18:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Aug-2015 08:18:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Aug-2015 08:18:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Aug-2015 08:18:27 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[20-Aug-2015 08:18:27 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 59
+[20-Aug-2015 08:18:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Aug-2015 08:18:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Aug-2015 08:18:38 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[28-Aug-2015 06:22:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[28-Aug-2015 06:22:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'head_js' not found or invalid function name in /temp/rsync/test/wordpress/wp-includes/plugin.php on line 470
+[28-Aug-2015 06:22:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[28-Aug-2015 06:22:12 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/api-data-handle.php on line 16
+[28-Aug-2015 06:46:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[28-Aug-2015 06:46:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'head_js' not found or invalid function name in /temp/rsync/test/wordpress/wp-includes/plugin.php on line 470
+[28-Aug-2015 06:46:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[28-Aug-2015 06:46:43 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/api-data-handle.php on line 16
+[11-Sep-2015 05:46:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[11-Sep-2015 05:46:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[13-Sep-2015 05:57:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[13-Sep-2015 05:57:25 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'head_js' not found or invalid function name in /temp/rsync/test/wordpress/wp-includes/plugin.php on line 470
+[13-Sep-2015 05:57:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[13-Sep-2015 05:57:30 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/api-data-handle.php on line 16
+[13-Sep-2015 08:59:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[13-Sep-2015 08:59:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'head_js' not found or invalid function name in /temp/rsync/test/wordpress/wp-includes/plugin.php on line 470
+[13-Sep-2015 09:00:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[13-Sep-2015 09:00:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[13-Sep-2015 09:00:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[13-Sep-2015 09:00:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'head_js' not found or invalid function name in /temp/rsync/test/wordpress/wp-includes/plugin.php on line 470
+[13-Sep-2015 09:33:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[13-Sep-2015 09:33:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[13-Sep-2015 09:33:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'head_js' not found or invalid function name in /temp/rsync/test/wordpress/wp-includes/plugin.php on line 470
+[13-Sep-2015 09:33:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[13-Sep-2015 09:33:56 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/api-data-handle.php on line 16
+[13-Sep-2015 15:44:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[13-Sep-2015 15:44:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[14-Sep-2015 01:36:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[14-Sep-2015 01:36:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[16-Sep-2015 12:13:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[16-Sep-2015 12:13:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 05:30:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 05:30:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 05:30:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 05:47:38 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 05:47:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 05:47:38 UTC] PHP Notice:  Undefined property: java_Client::$cancelProxyCreationTag in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1926
+[20-Sep-2015 05:48:19 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 05:48:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 05:50:30 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 05:50:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 05:50:30 UTC] PHP Notice:  Undefined property: java_Client::$cancelProxyCreationTag in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1994
+[20-Sep-2015 05:54:30 UTC] PHP Warning:  require_once(../java/php/java-handle.php): failed to open stream: No such file or directory in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/handle.php on line 6
+[20-Sep-2015 05:54:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../java/php/java-handle.php' (include_path='.:/usr/share/php:/usr/share/pear') in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/handle.php on line 6
+[20-Sep-2015 05:54:35 UTC] PHP Warning:  require_once(../java/php/java-handle.php): failed to open stream: No such file or directory in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/handle.php on line 6
+[20-Sep-2015 05:54:35 UTC] PHP Fatal error:  require_once(): Failed opening required '../java/php/java-handle.php' (include_path='.:/usr/share/php:/usr/share/pear') in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/handle.php on line 6
+[20-Sep-2015 05:56:43 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 05:56:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 05:56:43 UTC] PHP Notice:  Undefined property: java_Client::$cancelProxyCreationTag in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1994
+[20-Sep-2015 06:42:00 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 06:42:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 06:42:00 UTC] PHP Notice:  Undefined index: user in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 20
+[20-Sep-2015 06:42:22 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 06:42:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 06:42:22 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 28
+[20-Sep-2015 06:42:22 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/login-handle.php on line 59
+[20-Sep-2015 06:42:27 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 06:42:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 06:42:35 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 06:42:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 06:42:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'head_js' not found or invalid function name in /temp/rsync/test/wordpress/wp-includes/plugin.php on line 470
+[20-Sep-2015 06:42:45 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 06:42:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 06:42:45 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/handle/api-data-handle.php on line 16
+[20-Sep-2015 06:42:55 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 06:42:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 06:42:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'head_js' not found or invalid function name in /temp/rsync/test/wordpress/wp-includes/plugin.php on line 470
+[20-Sep-2015 07:17:20 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 07:17:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 07:17:20 UTC] PHP Notice:  Undefined property: java_Client::$cancelProxyCreationTag in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1926
+[20-Sep-2015 08:19:23 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 08:19:23 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 08:19:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 08:19:24 UTC] PHP Notice:  Undefined property: java_Client::$cancelProxyCreationTag in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1926
+[20-Sep-2015 08:19:52 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 08:19:52 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 08:19:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 08:19:52 UTC] PHP Notice:  Undefined property: java_Client::$cancelProxyCreationTag in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1994
+[20-Sep-2015 08:22:59 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 08:22:59 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 08:22:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 08:22:59 UTC] PHP Notice:  Undefined property: java_Client::$cancelProxyCreationTag in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1994
+[20-Sep-2015 08:22:59 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/java/php/java-handle.php on line 23
+[20-Sep-2015 08:23:12 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 08:23:12 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 08:23:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 08:23:12 UTC] PHP Notice:  Undefined property: java_Client::$cancelProxyCreationTag in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1994
+[20-Sep-2015 08:23:12 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/java/php/java-handle.php on line 23
+[20-Sep-2015 08:24:01 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 08:24:01 UTC] PHP Warning:  java_require() not supported anymore. Please use <a href="http://php-java-bridge.sourceforge.net/pjb/webapp.php>tomcat or jee hot deployment</a> instead in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1656
+[20-Sep-2015 08:24:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /temp/rsync/test/wordpress/index.php on line 41
+[20-Sep-2015 08:24:01 UTC] PHP Notice:  Undefined property: java_Client::$cancelProxyCreationTag in http://127.0.0.1:8081/JavaBridge/java/Java.inc on line 1994
+[20-Sep-2015 08:24:01 UTC] PHP Deprecated:  Function eregi() is deprecated in /temp/rsync/test/wordpress/extra2.1/patch4remal/java/php/java-handle.php on line 23

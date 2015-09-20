@@ -1,0 +1,6 @@
+
+This doc record some important change for the extra2.1. spec for common / index.php /wp-config.php .
+
+20150817:  open the kint debug function , in common/init.php:  require_once("lib/kint/Kint.class.php");
+ 
+20150817:  try add directly  mysql api support , in index.php ;
